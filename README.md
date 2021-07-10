@@ -1,10 +1,5 @@
 <h2> 𝐇ola <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👨‍💻</h2>
 
-<p align="center" style="height: 50px;">
-	<img src="https://user-images.githubusercontent.com/67175040/125175265-552e1600-e1a1-11eb-99e3-097c799b2f99.png" style="height: 200px !important;"/>
-</p>
-<p align="center">Acosta Gonzalo</p>
-
 ```PHP
 $gonzaloacosta883 = [
 	'pronombres' => 'her',
