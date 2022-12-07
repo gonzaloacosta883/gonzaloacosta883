@@ -1,12 +1,12 @@
 
-<center><h2> 𝐇ola mi nombre es Gonzalo Acosta!👨‍💻</h2></center>
-<center><h3> Backend | Php developer </h3></center>
+<center><h2> 𝐇ola, mi nombre es Gonzalo Acosta!👨‍💻</h2></center>
+<center><h3> Backend | PHP developer </h3></center>
 
 <br>
-<p>He desarrollado grandes proyecto con las tecnologías Symfony, Php, Webpack Encore y Javascript, también e desarrollado y documentado APIS utilizando en bundle de symfony nelmioApiDocBundle. Ademas participé en el desarrollo de la documentación de proyectos, especialmente en el diagrama de clases el cual es en mi opiñion la documentación mas importante para el desarrollador BackEnd.</p>
-<p>Soy un desarrollador que disfruta del trabajar con personas con mayor conocimiento, acepto y agradezco las criticas ya que me permiten mejorar en mi trabajo.</p>
+<p>He desarrollado grandes proyectos con las tecnologías Symfony, PHP, Webpack Encore y Javascript, también he desarrollado y documentado APIs utilizando el bundle de Symfony NelmioApiDocBundle. Además participé en el desarrollo de la documentación de proyectos, especialmente en el diagrama de clases el cual es, en mi opinión, la documentación más importante para el desarrollador backend.</p>
+<p>Soy un desarrollador que disfruta del trabajar con personas con mayor conocimiento, acepto y agradezco las críticas ya que me permiten mejorar en mi trabajo.</p>
 
-## ⚙ Mis tecnologias
+## ⚙ Mis tecnologías
 <table>
 <thead>
 <tr>
