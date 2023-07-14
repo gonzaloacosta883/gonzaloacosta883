@@ -1,62 +1,22 @@
+<h1 align="center">Hola 👋, Soy Gonzalo Gabriel Acosta</h1>
+<h3 align="center">Symfony SSr Developer</h3>
 
-<center><h2> 𝐇ola, mi nombre es Gonzalo Acosta!👨‍💻</h2></center>
-<center><h3> Backend | PHP developer </h3></center>
+<p>Soy un desarrollador con mas de 3 años de experiencia en el desarrollo de aplicaciones web y APIS REST con el lenguaje de programación PHP y su framework MVC Symfony.
 
-<br>
-<p>He desarrollado grandes proyectos con las tecnologías Symfony, PHP, Webpack Encore y Javascript, también he desarrollado y documentado APIs utilizando el bundle de Symfony NelmioApiDocBundle. Además participé en el desarrollo de la documentación de proyectos, especialmente en el diagrama de clases el cual es, en mi opinión, la documentación más importante para el desarrollador backend.</p>
-<p>Soy un desarrollador que disfruta del trabajar con personas con mayor conocimiento, acepto y agradezco las críticas ya que me permiten mejorar en mi trabajo.</p>
+Mi experiencia laboral se resume principalmente en mi último empleo hasta la fecha en el desarrollo de aplicaciones webs y servicios enfocados en la gestión estatal desde una aplicación para la gestión de lineas telefónicas fijas, móviles y centralitas etc para la municipalidad de Paraná. Aplicación para la consulta, pago y realización de convenios de pago de las infracciones cometidas por el contribuyente y sus respectivos servicios y desarrollo de diagramas UML como el Diagrama de clases .
 
-## ⚙ Mis tecnologías
-<table>
-<thead>
-<tr>
-    <th>Backend</th>
-    <th>Frontend</th>
-    <th>Otros</th>
-</tr>
-</thead>
-    <tbody>
-        <tr>
-            <td>
-                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-                <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-                <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<table>
-<thead>
-<tr>
-    <th>BBDD</th>
-    <th>Herramientas de desarrollo</th>
-</tr>
-</thead>
-    <tbody>
-        <tr>
-            <td>
-                <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-                <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-                <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
-                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gonzaloacosta883)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-gabriel-acosta-a3a22a158/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gonzaloacosta883@gmail.com) -->
+Actualmente me encuentro en la migración de la aplicación utilizada para la resolución de actas de infracción y su posterior resolución por parte de los jueces responsables del juzgado al cual fue asignada el acta. Teniendo que persistir la información en la BBDD AS400 como en MySQL ya que ambas aplicaciones coexisten por el momento.
+
+Soy un desarrollador apasionado por la web y con ganas de nunca parar de aprender, actualmente me encuentro perfeccionando mis habilidades con Angular 15 y TypeScript para convertirme en un desarrollador Full Stack.</p>
+
+- 📫 Contactame **gonzaloacosta883@gmail.com**
+- 👨‍💻 Todos mis proyectos están disponibles en [www.gonzalogabrielacosta.online](www.gonzalogabrielacosta.online)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gonzalo gabriel acosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo gabriel acosta" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
