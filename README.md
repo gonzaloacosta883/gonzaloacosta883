@@ -3,9 +3,7 @@
 
 <p>Soy un desarrollador con mas de 3 años de experiencia en el desarrollo de aplicaciones web y APIS REST con el lenguaje de programación PHP y su framework MVC Symfony.
 
-Mi experiencia laboral se resume principalmente en mi último empleo hasta la fecha en el desarrollo de aplicaciones webs y servicios enfocados en la gestión estatal desde una aplicación para la gestión de lineas telefónicas fijas, móviles y centralitas etc para la municipalidad de Paraná. Aplicación para la consulta, pago y realización de convenios de pago de las infracciones cometidas por el contribuyente y sus respectivos servicios y desarrollo de diagramas UML como el Diagrama de clases .
-
-Actualmente me encuentro en la migración de la aplicación utilizada para la resolución de actas de infracción y su posterior resolución por parte de los jueces responsables del juzgado al cual fue asignada el acta. Teniendo que persistir la información en la BBDD AS400 como en MySQL ya que ambas aplicaciones coexisten por el momento.
+Mi experiencia laboral se resume principalmente en mi último empleo hasta la fecha en el desarrollo de aplicaciones webs y servicios enfocados en la gestión estatal.
 
 Soy un desarrollador apasionado por la web y con ganas de nunca parar de aprender, actualmente me encuentro perfeccionando mis habilidades con Angular 15 y TypeScript para convertirme en un desarrollador Full Stack.</p>
 
