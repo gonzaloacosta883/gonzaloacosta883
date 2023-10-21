@@ -8,7 +8,7 @@ Mi experiencia laboral se resume principalmente en mi último empleo hasta la fe
 Soy un desarrollador apasionado por la web y con ganas de nunca parar de aprender, actualmente me encuentro perfeccionando mis habilidades con Angular 15 y TypeScript para convertirme en un desarrollador Full Stack.</p>
 
 - 📫 Contactame **gonzaloacosta883@gmail.com**
-- 👨‍💻 Todos mis proyectos están disponibles en [www.gonzalogabrielacosta.online](www.gonzaloacosta.online)
+- 👨‍💻 Todos mis proyectos están disponibles en [www.gonzaloacosta.online](www.gonzaloacosta.online)
 
 
 <h3 align="left">Connect with me:</h3>
