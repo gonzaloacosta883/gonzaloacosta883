@@ -2,11 +2,15 @@
 
 ###
 
-<h4 align="left">Acerca de mi:</h4>
+<h2 align="left">Acerca de mi:</h2>
 
 ###
 
-<p align="left">Desarrollador Fullstack especializado en la creación y mantenimiento de aplicaciones web utilizando Symfony y Angular. Cuento con experiencia en la gestión de infraestructura cloud sobre AWS, incluyendo despliegues en EC2, balanceo de carga con ELB, administración de bases de datos RDS y medidas de seguridad con AWS WAF &amp; Shield. También he trabajado con VPS tradicionales, implementando Cloudflare para mejorar la seguridad, aplicar cifrado SSL extremo a extremo, proteger contra ataques DDoS y configurar filtros geográficos por país.🚀 Busco nuevos desafíos profesionales donde pueda seguir creciendo como Fullstack Developer, aportando mi experiencia en desarrollo, arquitectura cloud y tecnologías modernas.</p>
+<p align="left">Desarrollador Fullstack especializado en la creación y mantenimiento de aplicaciones web utilizando Symfony y Angular. Cuento con experiencia en la gestión de infraestructura cloud sobre AWS, incluyendo despliegues en EC2, balanceo de carga con ELB, administración de bases de datos RDS y medidas de seguridad con AWS WAF &amp; Shield. También he trabajado con VPS tradicionales, implementando Cloudflare para mejorar la seguridad, aplicar cifrado SSL extremo a extremo, proteger contra ataques DDoS y configurar filtros geográficos por país.  Busco nuevos desafíos profesionales donde pueda seguir creciendo como Fullstack Developer, aportando mi experiencia en desarrollo, arquitectura cloud y tecnologías modernas.</p>
+
+###
+
+<h2 align="left">Stack</h2>
 
 ###
 
@@ -39,6 +43,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gonzaloacosta883/gonzaloacosta883/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gonzaloacosta883/gonzaloacosta883/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h2 align="left">Contacta conmigo</h2>
 
 ###
 
